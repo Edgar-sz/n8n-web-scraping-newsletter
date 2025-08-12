@@ -26,6 +26,7 @@ La información es procesada, resumida y entregada a los suscriptores vía Whats
 - 📑 **Google Sheets**: Gestiona la lista de suscriptores y contactos.  
 - 📅 **Nodo Schedule**: Programa el envío del newsletter a una hora determinada.  
 - 📩 **Evolution API**: Envía el newsletter a cada contacto vía WhatsApp.  
+- ⏳ **Nodo de espera aleatoria**: Crea **tiempos de espera aleatorios** entre envíos para evitar que WhatsApp detecte un patrón automático y reduzca el riesgo de baneo de la cuenta.
 
 ---
 
